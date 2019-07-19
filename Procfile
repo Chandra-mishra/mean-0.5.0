@@ -1,3 +1,3 @@
-web: node gulpfile.js
+web: node start
 
 
