@@ -1,3 +1,3 @@
-web: gulp start 
+web: gulp prod start:prod 
 
 
