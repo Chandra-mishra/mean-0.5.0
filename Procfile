@@ -1,1 +1,1 @@
-web: node app/node_modules/gulp/bin/gulp build
+web: node mean-0.5.0\node_modules\gulp\bin\gulp build
