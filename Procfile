@@ -1,3 +1,3 @@
-web: gulp prod start:prod 
+web: npm server.js
 
 
