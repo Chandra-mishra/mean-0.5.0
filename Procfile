@@ -1,1 +1,1 @@
-web: gulp start
+web: npm gulp start
